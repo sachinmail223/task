@@ -9,7 +9,7 @@ const Navbar = () => {
 
             </div>
             <div className="col-3"><img src="./img/Group1649.png" alt="" /></div>
-            <div className="col-2"></div>
+            <div className="col-1"></div>
             <div className="col-2">
                 <ul className={`${styles.ul}`}>
                     <li><a href="#">Company</a></li>
