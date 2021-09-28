@@ -1,0 +1,51 @@
+.footer{
+    background: transparent linear-gradient(180deg, #023E86 0%, #011F43 100%) 0% 0% no-repeat padding-box;
+opacity: 1;
+height: 651px;
+width: 100vw;
+padding-top: 60px;
+}
+
+.footerP1{
+    font: normal normal medium 18px/28px Montserrat;
+    font-size: 18px;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 0.4;
+width: 302px;
+height: 231px;
+margin-top: 50px;
+}
+.footerP3{
+    font: normal normal medium 18px/28px Montserrat;
+    font-size: 18px;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 0.4;
+width: 190px;
+height: 198px;
+margin-top: 50px;
+}
+.footerP2{
+    text-align: left;
+    font: normal normal bold 18px/48px Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.footerdp{
+    text-align: center;
+font: normal normal medium 18px/38px Montserrat;
+font-size: 18px;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 0.4;
+}
+.footerlp{
+    text-align: center;
+    font: normal normal medium 18px/38px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.4;}

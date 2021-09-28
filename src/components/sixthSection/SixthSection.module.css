@@ -1,0 +1,44 @@
+.sixth{
+    position: relative;
+    padding-top: 150px;
+    padding-left: 78px;
+    }
+.sixth img{
+    position: absolute;
+    top: 0;
+    width: 100vw;
+
+}
+.sixp1{
+    text-align: left;
+font: normal normal bold 32px/39px Montserrat;
+letter-spacing: 0px;
+color: #023E86;
+opacity: 1;
+margin-bottom: 50px;
+}
+.sixp2{
+    text-align: left;
+font-weight:500 ;
+font-size: 18px;
+letter-spacing: 0px;
+color: #023E86;
+opacity: 1;
+width: 561px;
+height: 86px;
+margin-bottom: 50px;
+
+}
+.sixDiv{
+    position: relative;
+    height: 83px; 
+    display: flex;
+   margin-top: 110px;
+}
+.sixDiv img{
+    position: absolute;
+    height: 83px; 
+    width: 83px;
+    display: block;
+
+}

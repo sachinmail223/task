@@ -1,0 +1,103 @@
+.aboutRow {
+  padding-top: 100px;
+  padding-bottom: 80px;
+  padding-left: 78px;
+}
+
+.about p:nth-child(1) {
+  font: normal normal bold 32px/21px Montserrat;
+  letter-spacing: 0px;
+  color: #023e86;
+  opacity: 1;
+}
+.about p:nth-child(2) {
+  text-align: left;
+  font: normal normal medium 18px/32px Montserrat;
+  letter-spacing: 0px;
+  color: #023e86;
+  width: 576px;
+  height: 86px;
+}
+
+.mission p:nth-child(1) {
+  font: normal normal bold 18px/22px Montserrat;
+  letter-spacing: 0px;
+  color: #023e86;
+  opacity: 1;
+}
+.mission p:nth-child(2) {
+  text-align: left;
+  font: normal normal medium 14px/22px Montserrat;
+  letter-spacing: 0px;
+  color: #023e86;
+  width: 268px;
+  height: 62px;
+  line-height: 22px;
+  margin-bottom: 50px;
+}
+.aboutImg {
+  border-radius: 10px;
+  opacity: 1;
+  width: 399px;
+  height: 370px;
+}
+.smallImg {
+  border-radius: 5px;
+  opacity: 1;
+  width: 104px;
+  height: 104px;
+}
+.smallImgRow {
+  padding: 30px;
+}
+.aboutImgCol {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.smallBtn button {
+  background: #a5d3ee 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  height: 30px;
+ padding: 0;
+ padding-left:15px;
+ padding-right:15px;
+ margin-right: 15px;
+ margin-top: 15px;
+
+}
+.bigBtn{
+    display: flex;
+    margin-top: 80px;
+}
+
+.bigBtn button{
+    background: #068FDF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+width: 199px;
+height: 61px;
+margin-right: 40px;
+font: normal normal bold 18px/32px Montserrat;
+letter-spacing: 0px;
+color: #FFFFFF;
+
+}
+.bigBtn img{
+  margin-right: 30px;
+
+}
+
+.bigBtnBoth button{
+    background: #EFEFEF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+width: 199px;
+height: 61px;
+margin-right: 20px;
+font: normal normal bold 18px/32px Montserrat;
+letter-spacing: 0px;
+color: #023E86;
+opacity: 1;
+}
